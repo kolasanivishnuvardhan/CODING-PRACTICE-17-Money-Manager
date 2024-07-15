@@ -1,0 +1,21 @@
+.each-transaction-Item-container {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #7e858e;
+  border-radius: 2px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.delete-img {
+  width: 20px;
+}
